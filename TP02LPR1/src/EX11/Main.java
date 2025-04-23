@@ -11,8 +11,6 @@ calcular e exibir determinante da matriz.
 
 public class Main {
 
-
-	public class DeterminanteMatriz {
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 	        int M;
