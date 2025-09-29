@@ -1,0 +1,10 @@
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\bin\Debug\Proj_Listas_Agenda_(WFA).exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\bin\Debug\Proj_Listas_Agenda_(WFA).exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\bin\Debug\Proj_Listas_Agenda_(WFA).pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\obj\Debug\Proj_Listas_Agenda_(WFA).csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\obj\Debug\Proj_Listas_Agenda__WFA_.Form1.resources
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\obj\Debug\Proj_Listas_Agenda__WFA_.Properties.Resources.resources
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\obj\Debug\Proj_Listas_Agenda_(WFA).csproj.GenerateResource.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\obj\Debug\Proj_Listas_Agenda_(WFA).csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\obj\Debug\Proj_Listas_Agenda_(WFA).exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Agenda_(WFA)\Proj_Listas_Agenda_(WFA)\obj\Debug\Proj_Listas_Agenda_(WFA).pdb
